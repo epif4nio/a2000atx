@@ -23,17 +23,17 @@ Inicialmente é necessário adquirir um adaptador [Original/Big Box ATX](http://
 
 Existem outros adaptadores à venda, mas este tem a vantagem de já nos fornecer o sinal TICK, ao contrário dos outros.
 
-[ inserir foto do adaptador do Ian Steadman ]
+![Ian Steadman Adapter](images/steadman_adapter.jpg)
 
 Nos PC’s modernos, para ligar o computador, temos de ter o interruptor da fonte ligado (ON) e para além disso temos de carregar no botão de Power, geralmente na parte frontal do computador.  No nosso caso, queremos que o Amiga 2000 se ligue de imediato ao ligar o interruptor da fonte de alimentação. Para isso é necessário configurar o adaptador para o switch type “latch” e sinal tick “50 Hz”:
 
 1. Adicionar um jumper em JP4 ou ligar um fio entre os dois orifícios que se encontram abaixo do jumper JP4:
-
-![Jumper P4](images/connect_to_switch.jpg)
-
 2. Configurar os dois pequenos interruptores que se encontram no adaptador para as posições “On”:
 
-![Dip Switch](images/dip_switch.jpg)
+Na imagem seguinte, o adaptador encontra-se sem jumper e com os dois switches ainda na posição Off.
+
+![Jumper and switches](images/jumper_switches.jpg)
+
 
 O que o adaptador não traz é um conector para ligar à board do Amiga. Por isso, e como já não vamos usar a fonte original, podemos cortar os fios do conector original e reaproveitá-lo:
 
