@@ -100,7 +100,7 @@ De seguida, retira-se a board da fonte de dentro da caixa metálica, deixando fi
 ![Wires](images/wires.jpg)
 
 
-##Passo 4: Abrir a fonte ATX e cortar fios
+## Passo 4: Abrir a fonte ATX e cortar fios
 
 **ATENÇÃO: No interior das fontes de alimentação existem condensadores que armazenam elevadas cargas eléctricas, mesmo quando o computador se encontra desligado. Tocar nesses condensadores, com as mãos ou com ferramentas, é altamente perigoso.**
 
