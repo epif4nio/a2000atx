@@ -39,7 +39,7 @@ The thing that this adapter is missing is the lead and connector to plug to the 
 
 ![Connector](images/connector.jpg)
 
-After stripping all the wires from the connector, it's time to connect the ATX adapter. For that I used the table available in Ian Steadman's website ([ver aqui](http://www.ianstedman.co.uk/Amiga/amiga_hacks/Amiga_PSU/amiga_psu.html#wiringa1500)), which I have simplified like this:
+After stripping all the wires from the connector, it's time to connect the ATX adapter. For that I used the table available in Ian Steadman's website ([here](http://www.ianstedman.co.uk/Amiga/amiga_hacks/Amiga_PSU/amiga_psu.html#wiringa1500)), which I have simplified like this:
 
 
 | Amiga pin # | Description |
