@@ -145,5 +145,5 @@ Finally, turn your computer on. Hopefully, it will work.
 
 **Author:** Tiago Epifânio
 
-**License (all text and documents):** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+**License (all text and images):** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
